@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+nerf_env*/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# ML artifacts (optional)
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.engine
+*.tflite
+*.npy
+*.npz
+
